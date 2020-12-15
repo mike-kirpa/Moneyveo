@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5e4bfe8-1c04-40ce-a090-5b4351954bd1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GoogleSearch/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Moneyveo/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Moneyveo/.idea/contentModel.xml" afterDir="false" />
+    <list default="true" id="c5e4bfe8-1c04-40ce-a090-5b4351954bd1" name="Default Changelist" comment="added travis config">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Moneyveo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Moneyveo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GoogleSearch/ApplicationManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GoogleSearch/ApplicationManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoogleSearch/BaseTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GoogleSearch/BaseTest.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoogleSearch/GoogleSearch.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/GoogleSearch/GoogleSearch.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoogleSearch/GoogleSearchPage.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GoogleSearch/GoogleSearchPage.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoogleSearch/GoogleTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GoogleSearch/GoogleTests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoogleSearch/obj/Debug/GoogleSearch.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GoogleSearch/obj/Debug/GoogleSearch.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moneyveo.sln.DotSettings.user" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,11 +24,11 @@
       <option value="$PROJECT_DIR$/GoogleSeach/ApplicationManager.cs" />
       <option value="$PROJECT_DIR$/GoogleSeach/GoogleSearchPage.cs" />
       <option value="$PROJECT_DIR$/GoogleSeach/GoogleTests.cs" />
-      <option value="$PROJECT_DIR$/GoogleSearch/ApplicationManager.cs" />
       <option value="$PROJECT_DIR$/GoogleSearch/BaseTest.cs" />
       <option value="$PROJECT_DIR$/GoogleSearch/GoogleSearchPage.cs" />
       <option value="$PROJECT_DIR$/GoogleSearch/GoogleTests.cs" />
       <option value="$PROJECT_DIR$/GoogleSearch/.travis.yml" />
+      <option value="$PROJECT_DIR$/GoogleSearch/ApplicationManager.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1lhUIK8nUVn0UUwHOoORv23HfmK" />
@@ -59,8 +51,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608048735773</updated>
-      <workItem from="1608048742558" duration="9342000" />
+      <workItem from="1608048742558" duration="10430000" />
     </task>
+    <task id="LOCAL-00001" summary="added travis config">
+      <created>1608059290120</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608059290120</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added travis config">
+      <created>1608059311196</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608059311196</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,5 +77,7 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="added travis config" />
+    <option name="LAST_COMMIT_MESSAGE" value="added travis config" />
   </component>
 </project>
