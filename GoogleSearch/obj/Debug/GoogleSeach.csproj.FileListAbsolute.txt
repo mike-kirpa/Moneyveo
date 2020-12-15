@@ -1,0 +1,11 @@
+C:\mydocy\docs\testing\automation\project\moneyveo\Moneyveo\GoogleSeach\bin\Debug\GoogleSeach.dll
+C:\mydocy\docs\testing\automation\project\moneyveo\Moneyveo\GoogleSeach\bin\Debug\GoogleSeach.pdb
+C:\mydocy\docs\testing\automation\project\moneyveo\Moneyveo\GoogleSeach\bin\Debug\nunit.framework.dll
+C:\mydocy\docs\testing\automation\project\moneyveo\Moneyveo\GoogleSeach\bin\Debug\WebDriver.dll
+C:\mydocy\docs\testing\automation\project\moneyveo\Moneyveo\GoogleSeach\bin\Debug\nunit.framework.xml
+C:\mydocy\docs\testing\automation\project\moneyveo\Moneyveo\GoogleSeach\bin\Debug\WebDriver.xml
+C:\mydocy\docs\testing\automation\project\moneyveo\Moneyveo\GoogleSeach\obj\Debug\GoogleSeach.csprojAssemblyReference.cache
+C:\mydocy\docs\testing\automation\project\moneyveo\Moneyveo\GoogleSeach\obj\Debug\GoogleSeach.csproj.CoreCompileInputs.cache
+C:\mydocy\docs\testing\automation\project\moneyveo\Moneyveo\GoogleSeach\obj\Debug\GoogleSeach.csproj.CopyComplete
+C:\mydocy\docs\testing\automation\project\moneyveo\Moneyveo\GoogleSeach\obj\Debug\GoogleSeach.dll
+C:\mydocy\docs\testing\automation\project\moneyveo\Moneyveo\GoogleSeach\obj\Debug\GoogleSeach.pdb

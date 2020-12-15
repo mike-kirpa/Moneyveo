@@ -1,0 +1,11 @@
+C:\mydocy\docs\testing\automation\project\moneyveo\Moneyveo\GoogleSearch\bin\Debug\GoogleSearch.dll
+C:\mydocy\docs\testing\automation\project\moneyveo\Moneyveo\GoogleSearch\bin\Debug\GoogleSearch.pdb
+C:\mydocy\docs\testing\automation\project\moneyveo\Moneyveo\GoogleSearch\bin\Debug\nunit.framework.dll
+C:\mydocy\docs\testing\automation\project\moneyveo\Moneyveo\GoogleSearch\bin\Debug\WebDriver.dll
+C:\mydocy\docs\testing\automation\project\moneyveo\Moneyveo\GoogleSearch\bin\Debug\nunit.framework.xml
+C:\mydocy\docs\testing\automation\project\moneyveo\Moneyveo\GoogleSearch\bin\Debug\WebDriver.xml
+C:\mydocy\docs\testing\automation\project\moneyveo\Moneyveo\GoogleSearch\obj\Debug\GoogleSearch.csprojAssemblyReference.cache
+C:\mydocy\docs\testing\automation\project\moneyveo\Moneyveo\GoogleSearch\obj\Debug\GoogleSearch.csproj.CoreCompileInputs.cache
+C:\mydocy\docs\testing\automation\project\moneyveo\Moneyveo\GoogleSearch\obj\Debug\GoogleSearch.csproj.CopyComplete
+C:\mydocy\docs\testing\automation\project\moneyveo\Moneyveo\GoogleSearch\obj\Debug\GoogleSearch.dll
+C:\mydocy\docs\testing\automation\project\moneyveo\Moneyveo\GoogleSearch\obj\Debug\GoogleSearch.pdb
