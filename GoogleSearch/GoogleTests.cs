@@ -1,7 +1,7 @@
 ﻿using System;
 using NUnit.Framework;
 
-namespace GoogleSeach
+namespace GoogleSearch
 {
     public class GoogleTests : BaseTest
     {

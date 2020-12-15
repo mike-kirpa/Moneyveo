@@ -3,7 +3,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Remote;
 
-namespace GoogleSeach
+namespace GoogleSearch
 {
     public class ApplicationManager
     {

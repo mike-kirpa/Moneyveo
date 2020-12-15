@@ -3,6 +3,7 @@
   <component name="ContentModelStore">
     <e p="C:\mydocy\docs\testing\automation\project\moneyveo\moneyveo" t="IncludeFlat">
       <e p="GoogleSearch" t="IncludeRecursive">
+        <e p=".travis.yml" t="Include" />
         <e p="ApplicationManager.cs" t="Include" />
         <e p="BaseTest.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
